@@ -1,0 +1,15 @@
+com\bj\crm\settings\web\controller\UserController.class
+com\bj\crm\utils\TransactionInvocationHandler.class
+com\bj\crm\settings\dao\UserDao.class
+com\bj\crm\web\filter\EncodingFilter.class
+com\bj\crm\utils\ServiceFactory.class
+com\bj\crm\utils\SqlSessionUtil.class
+com\bj\crm\utils\DateTimeUtil.class
+com\bj\crm\exception\LoginException.class
+com\bj\crm\utils\MD5Util.class
+com\bj\crm\settings\service\UserService.class
+com\bj\crm\utils\PrintJson.class
+com\bj\crm\utils\UUIDUtil.class
+com\bj\crm\settings\domain\User.class
+com\bj\crm\settings\service\impl\UserServiceImpl.class
+com\bj\crm\web\filter\LoginFilter.class
